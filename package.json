@@ -8,7 +8,8 @@
     "type": "git",
     "url": "https://github.com/suhailkakar/Tomorrow-Theme.git"
   },
-  "version": "0.0.1",
+  "icon": "images/logo.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.58.0"
   },
