@@ -11,9 +11,16 @@
     <img width="150" height="auto" src="./images/logo.png" alt="Tomorrow Theme" />
 </p>
 
-## Tomorrow Theme
+# Tomorrow Theme
 
 
  <img src="./images/Screenshot_2021-07-20_16-01-11.png" />
 
+
+### Installation
+
+1.  Open  **Extensions** sidebar panel in VS Code.  `View → Extensions`
+2.  Search for  `Tomorrow`  - find the one by  **Suhail Kakar**
+3.  Click  **Install**  to install it.
+4.  Code > Preferences > Color Theme >  **Tomorrow**
 
