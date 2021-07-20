@@ -3,6 +3,11 @@
   "displayName": "Tomorrow",
   "description": "Tomorrow",
   "publisher": "suhailkakar",
+  "homepage": "https://github.com/suhailkakar/Tomorrow-Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhailkakar/Tomorrow-Theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.58.0"
